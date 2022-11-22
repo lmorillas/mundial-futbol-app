@@ -19,4 +19,4 @@ python manage.py migrate
 
 ### Carga los datos de los jugadores
 
-En la carpeta [utils](tree/main/utils) tienes las instrucciones
+En la carpeta [utils](utils) tienes las instrucciones
