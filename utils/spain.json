@@ -1,0 +1,158 @@
+[
+    {
+        "nombre": "Robert",
+        "apellido": "Lynch S\u00e1nchez",
+        "imagen": "https://digitalhub.fifa.com/transform/501a7b8c-121a-450a-8da1-04768e3b239c/1442546780?io=transform:fill,width:792,height:900",
+        "posicion": "Arquero"
+    },
+    {
+        "nombre": "David",
+        "apellido": "RAYA",
+        "imagen": "https://digitalhub.fifa.com/transform/99bac8dc-3541-42aa-9ee7-c2062dab21c5/1442550384?io=transform:fill,width:792,height:900",
+        "posicion": "Arquero"
+    },
+    {
+        "nombre": "Unai",
+        "apellido": "SIMON",
+        "imagen": "https://digitalhub.fifa.com/transform/3996caf6-8de6-4cc9-b320-43269c6a8b68/1442550448?io=transform:fill,width:792,height:900",
+        "posicion": "Arquero"
+    },
+    {
+        "nombre": "Cesar",
+        "apellido": "AZPILICUETA",
+        "imagen": "https://digitalhub.fifa.com/transform/2a40ece5-6fa5-423e-81e4-b8f404480d7c/1442552014?io=transform:fill,width:792,height:900",
+        "posicion": "Defensor"
+    },
+    {
+        "nombre": "Eric",
+        "apellido": "GARCIA",
+        "imagen": "https://digitalhub.fifa.com/transform/765d6a9d-4f5d-42af-a187-6fceb77f7076/1442550812?io=transform:fill,width:792,height:900",
+        "posicion": "Defensor"
+    },
+    {
+        "nombre": "Pau",
+        "apellido": "TORRES",
+        "imagen": "https://digitalhub.fifa.com/transform/8f710499-fba6-4d2e-b512-e0c1c242379e/1442551864?io=transform:fill,width:792,height:900",
+        "posicion": "Defensor"
+    },
+    {
+        "nombre": "Alejandro",
+        "apellido": "BALDE",
+        "imagen": "data:image/png;base64,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",
+        "posicion": "Defensor"
+    },
+    {
+        "nombre": "Hugo",
+        "apellido": "GUILLAMON",
+        "imagen": "https://digitalhub.fifa.com/transform/e35f29a4-1613-4259-9671-af391c2329a2/1442550948?io=transform:fill,width:792,height:900",
+        "posicion": "Defensor"
+    },
+    {
+        "nombre": "Jordi",
+        "apellido": "ALBA",
+        "imagen": "https://digitalhub.fifa.com/transform/bef08b26-042b-4a7c-a517-f29e1c937c39/1442550649?io=transform:fill,width:792,height:900",
+        "posicion": "Defensor"
+    },
+    {
+        "nombre": "Dani",
+        "apellido": "CARVAJAL",
+        "imagen": "https://digitalhub.fifa.com/transform/e4f534e2-d24e-4d69-aae7-970fe7bcbf54/1442550925?io=transform:fill,width:792,height:900",
+        "posicion": "Defensor"
+    },
+    {
+        "nombre": "Aymeric",
+        "apellido": "Laporte",
+        "imagen": "https://digitalhub.fifa.com/transform/2b44baf6-3e19-42b0-b982-427f88c56334/1442551021?io=transform:fill,width:792,height:900",
+        "posicion": "Defensor"
+    },
+    {
+        "nombre": "Sergio",
+        "apellido": "BUSQUETS",
+        "imagen": "https://digitalhub.fifa.com/transform/2dec5173-d2fd-4a06-8715-398332b2cc44/1442551723?io=transform:fill,width:792,height:900",
+        "posicion": "Mediocampista"
+    },
+    {
+        "nombre": "Marcos",
+        "apellido": "LLORENTE",
+        "imagen": "https://digitalhub.fifa.com/transform/bc994cd1-cfcd-4de7-ad0b-182b16a6ebd5/1442551339?io=transform:fill,width:792,height:900",
+        "posicion": "Mediocampista"
+    },
+    {
+        "nombre": "KOKE",
+        "apellido": "",
+        "imagen": "https://digitalhub.fifa.com/transform/87132c4b-85cb-4eeb-add2-06ea6489d9ec/1442552127?io=transform:fill,width:792,height:900",
+        "posicion": "Mediocampista"
+    },
+    {
+        "nombre": "GAVI",
+        "apellido": "",
+        "imagen": "https://digitalhub.fifa.com/transform/3accf767-b78f-4bf4-87f8-25ab808366c4/1442551912?io=transform:fill,width:792,height:900",
+        "posicion": "Mediocampista"
+    },
+    {
+        "nombre": "RODRI",
+        "apellido": "",
+        "imagen": "https://digitalhub.fifa.com/transform/5e614c86-4c65-4d3a-b211-7ca38710187c/1442551426?io=transform:fill,width:792,height:900",
+        "posicion": "Mediocampista"
+    },
+    {
+        "nombre": "Carlos",
+        "apellido": "SOLER",
+        "imagen": "https://digitalhub.fifa.com/transform/422d4d27-2116-480f-9651-80561352a2b2/1442551423?io=transform:fill,width:792,height:900",
+        "posicion": "Mediocampista"
+    },
+    {
+        "nombre": "Pedri",
+        "apellido": "GONZALEZ",
+        "imagen": "https://digitalhub.fifa.com/transform/103c93e3-a3d4-4022-9bde-1285f4677ba8/1442551614?io=transform:fill,width:792,height:900",
+        "posicion": "Mediocampista"
+    },
+    {
+        "nombre": "Alvaro",
+        "apellido": "MORATA",
+        "imagen": "https://digitalhub.fifa.com/transform/a6d1d8b4-a559-4c7f-aed3-095126b60e1c/1442552095?io=transform:fill,width:792,height:900",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Marco",
+        "apellido": "ASENSIO",
+        "imagen": "https://digitalhub.fifa.com/transform/a28c5f8b-ef3b-4fb0-9cd3-a59c0c10c8f9/1442551256?io=transform:fill,width:792,height:900",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Ferran",
+        "apellido": "TORRES",
+        "imagen": "https://digitalhub.fifa.com/transform/405abbab-5e5d-4277-905f-6bbdf618bad5/1442551768?io=transform:fill,width:792,height:900",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Nico",
+        "apellido": "WILLIAMS",
+        "imagen": "https://digitalhub.fifa.com/transform/0c54f295-1459-4e47-b2ce-d40500aedbf4/1442551969?io=transform:fill,width:792,height:900",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Yeremy",
+        "apellido": "PINO",
+        "imagen": "https://digitalhub.fifa.com/transform/8cec67ff-34d6-48eb-84a2-438f6dbad67a/1442552155?io=transform:fill,width:792,height:900",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Dani",
+        "apellido": "OLMO",
+        "imagen": "https://digitalhub.fifa.com/transform/fe13d81b-073b-4657-a210-de2b48e2b449/1442551204?io=transform:fill,width:792,height:900",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Pablo",
+        "apellido": "SARABIA",
+        "imagen": "https://digitalhub.fifa.com/transform/e93bb879-a521-4d0e-9201-1260c25895f0/1442551078?io=transform:fill,width:792,height:900",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Anssumane",
+        "apellido": "Fati",
+        "imagen": "https://digitalhub.fifa.com/transform/c18616da-8431-4a85-b6ce-d706b85e8095/1442552066?io=transform:fill,width:792,height:900",
+        "posicion": "Delantero"
+    }
+]
