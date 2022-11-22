@@ -17,3 +17,6 @@ python manage.py makemigrations mundial
 python manage.py migrate
 ```
 
+### Carga los datos de los jugadores
+
+En la carpeta [utils](tree/main/utils) tienes las instrucciones
