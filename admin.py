@@ -4,11 +4,15 @@ from django.contrib import admin
 
 from .models import Equipo, Jugador
 
-admin.site.register(Equipo)
+@admin.register(Equipo)
+class EquipoAdmin(admin.ModelAdmin):
+    pass
 
-@admin.site.register(Jugador)
+
+@admin.register(Jugador)
 class JugadorAdmin(admin.ModelAdmin):
-    list_display = ('nombre', 'apellido', 'posicion')
-    list_filter = ('posicion', 'equipo')
+    list_display = ('nombre', 'apellido', 'posicion', 'img_jugador')
+    list_filter = ('posicion', 'equipo__nombre')
     search_fields = ('nombre', 'apellido', 'posicion')
+
 
