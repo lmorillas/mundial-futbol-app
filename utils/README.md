@@ -11,7 +11,7 @@ pip install ipython
 (env) $ python manage.py shell
 
 >>> cd mundial/utils
->>> %run crea-jugadores.py
+>>> %run crear_datos.py
 ```
 
 ## Comprueba que se han creado los jugadores
@@ -19,13 +19,15 @@ pip install ipython
 > En el mismo shell de django
 > 
 ```python
-from mundial.models import Jugador
+from mundial.models import Jugador, Equipo
 
 Jugador.objects.count()
+Equipo.objects.count()
 ```
 
-Si quieres borrar los jugadores creados, ejecuta el siguiente comando:
+Si quieres borrar los jugadores y equipos creados, ejecuta el siguiente comando:
 
 ```python
 Jugador.objects.all().delete()
+Equipo.objects.all().delete()
 ```
